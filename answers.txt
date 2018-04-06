@@ -1,0 +1,13 @@
+11 commits
+Last commit on Mar 20, 2018
+All commits were made by Stepan Bolotnikov
+
+The following lines were added to the confg.txt file in cebfb97
++core.repositoryformatversion=0
++core.filemode=false
++core.bare=false
++core.logallrefupdates=true
++remote.origin.url=git@github.com:Stopa/cse-prac3-history.git
++remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
++branch.master.remote=origin
++branch.master.merge=refs/heads/master
